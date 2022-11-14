@@ -19,6 +19,10 @@ persist.data.df.dev_name=rmnet_usb0
 persist.vendor.data.mode=concurrent
 ro.vendor.use_data_netmgrd=true
 
+# Device Prop
+ro.product.name=X00T
+ro.product.product.device=X00T
+
 # Disable remote keyguard animation
 persist.wm.enable_remote_keyguard_animation=0
 
