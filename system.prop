@@ -84,6 +84,9 @@ telephony.lteOnCdmaDevice=1
 # RCS
 persist.rcs.supported=1
 
+# Render
+debug.cpurend.vsync=false
+
 # ScalarConfig
 vendor.display.disable_scaler=1
 
